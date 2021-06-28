@@ -41,8 +41,8 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ Terimakasih buat sahabat Doraemond
+│ dan kawand kawand （☆/＞u＜/）
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
