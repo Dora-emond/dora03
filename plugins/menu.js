@@ -41,6 +41,10 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
+│
+│ Gunakan dora sewajarnya ya kak , 
+│ jangan spam ngokey, kasih jeda,  
+│ donasi klw gitu .donasi (X﹏X)↷ 😆
 │ Terimakasih buat sahabat Doraemond
 │ dan kawand kawand （☆/＞u＜/）
 ╰────
