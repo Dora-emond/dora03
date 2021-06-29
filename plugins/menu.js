@@ -44,7 +44,8 @@ const defaultMenu = {
 │
 │ Gunakan dora sewajarnya ya kak , 
 │ jangan spam ngokey, kasih jeda,  
-│ donasi klw gitu .donasi (X﹏X)↷ 😆
+│ donasi klw gitu biar dora semangat kak
+│ .donasi (X﹏X)↷ 😆
 │ Terimakasih buat sahabat Doraemond
 │ dan kawand kawand （☆/＞u＜/）
 ╰────
